@@ -1,0 +1,16 @@
+{
+  "name": "AI Career Compass",
+  "short_name": "CareerAI",
+  "description": "AI-powered career guidance for Indian students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#4f9eff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
